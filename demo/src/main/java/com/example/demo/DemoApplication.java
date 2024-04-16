@@ -26,7 +26,7 @@ public class DemoApplication {
 
 	private static void genFile() {
 		// 设置要生成的 PDF 文件的页数
-        int numberOfPages = 350;
+        int numberOfPages = 600;
         // 设置每页文本的长度（大约为 200 KB）
         int textLength = 20000000;
 
